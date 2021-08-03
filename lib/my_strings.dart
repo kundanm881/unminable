@@ -10,5 +10,5 @@ class MyStrings {
   // GET /account/:uuid/workers
   // GET /account/:uuid/payments
   // GET /account/:uuid/referrals
- // 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 github Token
+ // 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 github Token
 }
