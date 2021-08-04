@@ -1,5 +1,5 @@
 class MyStrings {
- final baseUrl = 'https://api.unminable.com/v4';
+  static String baseUrl = 'https://api.unminable.com/v4';
 
   // GET /pool
   // GET /coin
@@ -10,5 +10,5 @@ class MyStrings {
   // GET /account/:uuid/workers
   // GET /account/:uuid/payments
   // GET /account/:uuid/referrals
- // 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 github Token
+  // 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 github Token
 }

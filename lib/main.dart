@@ -2,8 +2,7 @@ import 'package:flutter/material.dart';
 import 'package:unminable/my_strings.dart';
 
 void main() {
-  MyStrings strings = MyStrings();
-  print(strings.baseUrl);
+  print(MyStrings.baseUrl);
 }
 
 class MyApp extends StatelessWidget {
@@ -11,7 +10,6 @@ class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     MyStrings str = MyStrings();
-    print(str.baseUrl);
     return MaterialApp(
       title: 'Flutter Demo',
       theme: ThemeData(
