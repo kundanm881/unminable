@@ -1,5 +1,7 @@
 class MyStrings {
-  static String baseUrl = 'https://api.unminable.com/v4';
+  static String baseUrl = "https://api.unminable.com/v4/";
+  static String pool = "pool";
+  // static String baseUrl = 'https://api.unminable.com';
 
   // GET /pool
   // GET /coin
